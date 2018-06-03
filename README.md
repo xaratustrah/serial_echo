@@ -8,3 +8,5 @@ On Android you can use [Bluetooth Terminal](https://f-droid.org/packages/ru.sash
 
 Information on Arduino Nano boards with the CH340 serial chip can be found [here](http://www.instructables.com/id/Arduino-Nano-CH340/).
 
+Another example of serial echo can be found [here](http://spacetinkerer.blogspot.com/2011/02/serial-port-echo-with-arduino.html).
+
